@@ -59,23 +59,19 @@ This project strictly follows **secure coding practices**.
    ```python
    API_KEY = "your_api_key_here"
 
-How to Run the Project Locally
+## How to Run the Project Locally
 
-Clone the repository
+1.Clone the repository
+`git clone https://github.com/your-username/AI-blog-content-assistant.git`
 
-git clone https://github.com/your-username/AI-blog-content-assistant.git
+2.Navigate to the project folder
+`cd AI-blog-content-assistant`
 
-Navigate to the project folder
+3.Install dependencies
+`pip install -r requirements.txt`
 
-cd AI-blog-content-assistant
-
-Install dependencies
-
-pip install -r requirements.txt
-
-Run the Streamlit app
-
-streamlit run app.py
+4.Run the Streamlit app
+`streamlit run app.py`
 
 ## Author
 
