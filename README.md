@@ -38,12 +38,11 @@ This project was built as part of my learning journey and is intended to showcas
 
 AI-blog-content-assistant/
 │
-├── app.py # Main Streamlit application
-├── requirements.txt # Project dependencies
-├── .gitignore # Files ignored by Git (secrets, cache, env)
-├── secret_api_keys_example.py # Example format for API key
-├── README.md # Project documentation
-
+├── app.py                     # Main Streamlit application
+├── requirements.txt           # Project dependencies
+├── .gitignore                 # Files ignored by Git (secrets, cache)
+├── code_dev.ipynb             # Code in the .ipynb notebook form
+├── README.md                  # Project documentation
 
 > ⚠️ The actual file `secret_api_keys.py` is intentionally **not included** to prevent exposing sensitive credentials.
 
